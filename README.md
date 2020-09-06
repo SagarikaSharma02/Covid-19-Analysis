@@ -4,4 +4,5 @@
 3) We have analysed the fraction of tests that returned a positive result in Italy.
 4) This project also provides information regarding the number of new positive tests conducted, new positive cases , new deaths that came in Italy on a specific month.
 5) After Italy we also analysed the Covid-19 Situation of other countries like tests per million, deaths per million.
-6 We also found top countries with highest number of death cases, new cases and countries were higher number of tests were conducted.
+6) We also found top countries with highest number of death cases, new cases and countries were higher number of tests were conducted.
+7) And also linked the number of deaths in a country with there population size. 
